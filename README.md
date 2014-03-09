@@ -1,4 +1,0 @@
-Cwiczenia.Programowanie
-=======================
-
-Notatki
