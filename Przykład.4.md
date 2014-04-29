@@ -1,4 +1,4 @@
-'''
+```
 #include <stdio.h>
 main(){
 	int suma_kwadratow = 0, i;
