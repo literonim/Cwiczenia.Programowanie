@@ -1,3 +1,4 @@
+```
 #include <stdio.h>
 main(){
 	float i;
@@ -14,3 +15,4 @@ main(){
 	printf("\n\n\n\n\nWcisnij klawisz ENTER aby wyjsc...");
 	getchar();
 }
+```
