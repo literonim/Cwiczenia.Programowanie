@@ -1,4 +1,4 @@
-#include <stdio.h>
+>#include <stdio.h>
 main(){
 	int i;
 	printf("Wydrukowanie ciagu liczb przy pomocy petli FOR: ");
