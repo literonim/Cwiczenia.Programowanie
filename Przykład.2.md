@@ -15,4 +15,3 @@ main(){
 	printf("\n\n\n\n\nWcisnij klawisz ENTER aby wyjsc...");
 	getchar();
 }
-```
