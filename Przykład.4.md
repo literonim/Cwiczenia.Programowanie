@@ -1,3 +1,4 @@
+'''
 #include <stdio.h>
 main(){
 	int suma_kwadratow = 0, i;
@@ -13,3 +14,4 @@ main(){
 	printf("\n\n\nWcisnij klawisz ENTER aby wyjsc...");
 	getchar();
 }
+''''
