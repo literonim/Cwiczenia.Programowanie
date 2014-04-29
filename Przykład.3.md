@@ -1,3 +1,4 @@
+`
 #include <stdio.h>
 main(){
 	int i, n;
@@ -27,3 +28,4 @@ main(){
 	printf("\n\n\nWcisnij klawisz ENTER aby wyjsc...");
 	getchar(); getchar();
 }
+`
