@@ -1,1 +1,0 @@
-# Plik stworzony z przymusu
