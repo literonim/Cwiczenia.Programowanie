@@ -11,7 +11,7 @@ tagline:          The Jekyll Butler
 url:              http://getpoole.com
 baseurl:          /Cwiczenia.Programowanie
 pages_list:       
-  About: "{{ site.baseurl }}/about"
-  Archive: "{{ site.baseurl }}/archive"
+  About: '/Cwiczenia.Programowanie/about'
+  Archive: '/Cwiczenia.Programowanie/archive'
 paginate:         1
 
