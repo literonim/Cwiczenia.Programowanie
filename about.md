@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Witam ciebie drogi speraczu internetowy to co widzisz przed swymi oczyma to tylko wersja demo!
+  Witam ciebie drogi szperaczu internetowy to co widzisz przed swymi oczyma to tylko wersja demo!
 </p>
 
 Przydatne informacje:
