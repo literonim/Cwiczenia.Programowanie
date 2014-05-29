@@ -10,9 +10,8 @@ title:            Literonim
 tagline:          The Jekyll Butler
 url:              http://getpoole.com
 pages_list:       
-  About: '/about'
-  Archive: '/archive'
-  dupa: '/dupa'
+  About: '/Cwiczenia.Programowanie/about'
+  Archive: '/Cwiczenia.Programowanie/archive'
 paginate:         1
 baseurl:          /
 
