@@ -9,9 +9,9 @@ permalink:        pretty
 title:            Literonim
 tagline:          The Jekyll Butler
 url:              http://getpoole.com
-pages_list:       
-  About: '/Cwiczenia.Programowanie/about'
-  Archive: '/Cwiczenia.Programowanie/archive'
-paginate:         1
 baseurl:          /Cwiczenia.Programowanie
+pages_list:       
+  About: '{{ site.baseurl }}/about'
+  Archive: '{{ site.baseurl }}/archive'
+paginate:         1
 
